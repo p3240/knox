@@ -7,11 +7,6 @@ version: 1.0
 url: https://github.com/p3240/knox/blob/main/plugins/Convert%20Measurements.js
 
 ui:
-  # optional list of css files to include in the UI
-  css:
-    - <path to css file>
-
-  # optional list of js files to include in the UI
   javascript:
     - https://github.com/p3240/knox/blob/main/plugins/Convert%20Measurements.js
     - ConvertMeasurements.js
@@ -19,7 +14,7 @@ ui:
 # map of setting names to be displayed in the plugins page in the UI
 settings: ConvertMeasurements
   # internal name
-  foo:
+  foo: ConvertMeasurements
   # name to display in the UI
   displayName: Convert Measurements
   # type of the attribute to show in the UI
