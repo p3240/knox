@@ -1,0 +1,7 @@
+- id: ConvertMeasurements
+  name: Convert Measurements
+  metadata:
+    description: Adds button to convert weight, height, and penis length fields on the performer edit page
+  version: 1.0
+  date: 2026-03-13 02:20:00
+  path: ConvertMeasurements.js
